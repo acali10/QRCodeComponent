@@ -1,4 +1,5 @@
 # QRCodeComponent
+
 Desafio do Frontend Mentor
 
 ![preview](assets/screenshot.png)
