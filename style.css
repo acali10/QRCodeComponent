@@ -4,13 +4,14 @@
 
 body{
     background-color: #d5e1ef;
-    min-height: 100vh;
+    height: 100vh;
+    overflow: hidden;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
     align-items: center;
     padding: 40px 20px;
-    overflow: hidden;
+  
 }
 
 a{
@@ -28,6 +29,7 @@ a:hover{
     align-items: center;
     justify-content: center;
     min-height: 90vh;
+    flex-grow: 1;
 }
 
 .card{
@@ -71,5 +73,5 @@ footer{
     font-size: 12px;
     text-align: center;
     color: #7b879d;
-    margin-top: 20px;
+    margin-top: auto;
 }
